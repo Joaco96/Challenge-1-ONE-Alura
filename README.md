@@ -27,8 +27,6 @@ Link: https://joaco96.github.io/Challenge-1-ONE-Alura/
 
 Espero que lo disfruten!
 
-#challengeonecodificador2
-
 
 JC
 
